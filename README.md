@@ -1,1 +1,1 @@
-# templates
+cpp-console=0

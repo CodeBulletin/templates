@@ -1,1 +1,1 @@
-cpp-console=0
+cpp-console=CodeBulletin/cpp-template-console

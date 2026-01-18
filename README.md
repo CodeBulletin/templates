@@ -1,1 +1,2 @@
-cpp-console=CodeBulletin/cpp-template-console
+#OfficialRepos
+cpp-console=CodeBulletin/cpp-template-console@0.1.0

@@ -1,3 +1,3 @@
 # Official Repository
 ## C++
-cpp-console=CodeBulletin/cpp-template-console@0.3.4
+cpp-console=CodeBulletin/cpp-template-console@0.3.5
